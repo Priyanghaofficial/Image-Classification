@@ -125,7 +125,8 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### New Sample Data Prediction
 
-Include your sample input and output 
+![image](https://github.com/user-attachments/assets/4885cab5-4cef-4bd3-be79-8eae4ea12ac7)
+
 
 ## RESULT
 Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
