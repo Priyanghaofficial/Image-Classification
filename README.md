@@ -6,11 +6,12 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-Include the Problem Statement and Dataset.
+To classify the given images into it's category
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/a035977b-0caa-4982-bdad-aa2ec7a1f464)
+
 
 ## DESIGN STEPS
 STEP 1: Problem Statement
