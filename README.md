@@ -6,11 +6,12 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-To classify the given images into it's category
+The goal of this project is to develop a Convolutional Neural Network (CNN) for image classification using the Fashion-MNIST dataset. The Fashion-MNIST dataset contains images of various clothing items (T-shirts, trousers, dresses, shoes, etc.), and the model aims to classify them correctly. The challenge is to achieve high accuracy while maintaining efficiency.
 
 ## Neural Network Model
 
-![image](https://github.com/user-attachments/assets/a035977b-0caa-4982-bdad-aa2ec7a1f464)
+![image](https://github.com/user-attachments/assets/94904655-009f-4e3a-9c63-415f6f1e7d41)
+
 
 
 ## DESIGN STEPS
